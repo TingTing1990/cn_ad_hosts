@@ -2,9 +2,6 @@
 ::1 localhost
 
 # 相同部分
-127.0.0.1 0.r.msn.com
-127.0.0.1 0.twitter.com
-127.0.0.1 009.itpolska.click
 127.0.0.1 adc-ad-assets.adtilt.com
 127.0.0.1 adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
 127.0.0.1 ads-api.twitter.com
